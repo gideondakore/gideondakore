@@ -1,5 +1,3 @@
-Nice—let’s make it feel less generic and more *you*. I’ve refined it to emphasize your direction (backend + AWS + DevOps), added structure that recruiters like, and included sections you can easily customize with your real projects.
-
 ---
 
 # 👷🏾‍♂️ GIDEON DAKORE
