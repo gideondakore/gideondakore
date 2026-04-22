@@ -41,25 +41,6 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,firebase,supabase" />
 
----
-
-## 📂 Featured Projects
-
-*(Replace these with your actual repos — I can help you fill them if you share links)*
-
-### 🔹 Project Name
-
-* 📝 Short description of what it does
-* ⚙️ Tech: Node.js, AWS, Docker
-* 🔗 Link: [https://github.com/gideondakore/project](https://github.com/gideondakore/project)
-
-### 🔹 Project Name
-
-* 📝 What problem it solves
-* ⚙️ Tech: Python, Flask, PostgreSQL
-* 🔗 Link: [https://github.com/gideondakore/project](https://github.com/gideondakore/project)
-
----
 
 ## 📊 GitHub Stats
 
