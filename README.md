@@ -60,8 +60,7 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: *(add your link)*
-* 🐦 Twitter/X: *(optional)*
+* 💼 LinkedIn: *www.linkedin.com/in/gideon-dakore*
 
 ---
 
