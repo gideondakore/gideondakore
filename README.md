@@ -9,7 +9,7 @@
 💡 I build backend systems, APIs, and cloud-powered applications.
 ☁️ Focused on **AWS, DevOps, and scalable system design**.
 
-📫 **[gideondakore@gmail.com](mailto:dakoregideon72@gmail.com)**
+📫 **[dakoregideon72@gmail.com](mailto:dakoregideon72@gmail.com)**
 
 ---
 
