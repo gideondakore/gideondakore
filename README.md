@@ -1,71 +1,39 @@
----
+# Gideon Dakore
 
-# 👷🏾‍♂️ GIDEON DAKORE
+Backend engineer in Kumasi, Ghana. I build APIs and services in **Java/Spring Boot** and **NestJS**, and run them on **AWS**.
 
-## Hi 👋, I'm Gideon
-
-### Software Engineer from Ghana 🇬🇭
-
-💡 I build backend systems, APIs, and cloud-powered applications.
-☁️ Focused on **AWS, DevOps, and scalable system design**.
-
-📫 **[dakoregideon72@gmail.com](mailto:dakoregideon72@gmail.com)**
+📫 [dakoregideon72@gmail.com](mailto:dakoregideon72@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gideon-dakore)
 
 ---
 
-## 🚀 About Me
+## What I work on
 
-* 🔭 Currently working on **backend systems & cloud-based applications**
-* 🌱 Actively learning **DevOps (CI/CD, Docker, AWS services)**
-* ⚙️ Strong interest in **microservices & distributed systems**
-* 🧠 Improving problem-solving through **data structures & system design**
-* 🎯 Goal: Become a **Cloud & DevOps Engineer**
+**Identity and authentication** — Built the management console for a multi-domain supply chain platform, acting as its identity provider and single source of truth for user accounts. Four domain applications authenticate through an OIDC-style flow: tokens signed with a private key, public key published at a JWKS endpoint, so each service verifies locally without shared secrets or a callback on every request.
 
----
+**Real-time systems** — Real-time messaging service in NestJS using Socket.io with the Redis adapter, so socket state is shared across instances and the service scales horizontally. Idempotent delivery via client-supplied message identifiers, which matters when mobile clients retry on flaky connections.
 
-## 🛠️ Tech Stack
-
-### **Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,go,js,nodejs,express,html,css" />
-
-### **Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
-
-### **Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-
-### **Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,firebase,supabase" />
-
-
-## 📊 GitHub Stats
-
-![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideondakore&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gideondakore&layout=compact&theme=tokyonight)
+**Cloud and networking** — Spring Boot services deployed across EC2, Application Load Balancer, and Auto Scaling Groups, shipped through Jenkins pipelines gated by SonarQube. Designed an identity-aware VPN architecture for remote access using OpenVPN with an easy-rsa PKI, per-client configuration directives, and iptables routing.
 
 ---
 
-## 📈 What I'm Working On
+## Stack
 
-* 🚀 Building **real-world cloud projects on AWS**
-* 🔄 Learning **CI/CD pipelines (GitHub Actions)**
-* 🐳 Improving skills in **Docker & containerization**
+**Languages** Java · TypeScript · JavaScript · Python · SQL · Bash
 
----
+**Backend** Spring Boot · NestJS · Node.js · Express · JPA/Hibernate · Prisma · JUnit
 
-## 🤝 Connect With Me
+**Cloud & DevOps** AWS (EC2, ALB, Auto Scaling, Lambda, IAM, VPC, ECR, CloudFormation) · Docker · Jenkins · SonarQube · Linux
 
-* 💼 LinkedIn: *www.linkedin.com/in/gideon-dakore*
+**Data** PostgreSQL · MySQL · MongoDB · Redis
 
----
+**Also** React · Next.js · Flutter
 
-## ⚡ Fun Fact
-
-I prefer building real-world projects over just tutorials—learning by doing 🚀
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nodejs,python,postgres,redis,aws,docker,jenkins,linux" />
 
 ---
+
+## Currently
+
+Studying for **AWS Certified Developer – Associate**. Interested in distributed systems, event-driven architecture, and the security layer underneath both — PKI, TLS, token design.
+
+I read source and specs before reaching for a tutorial. Most of what I learn comes from taking something apart to find out why it works the way it does.
