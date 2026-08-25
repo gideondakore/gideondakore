@@ -1,45 +1,71 @@
-# Hi, I'm Gideon Dakore 👋
+---
 
-I build things on the web and in open source. This is my GitHub profile repository — the README here shows on my GitHub profile overview.
+# 👷🏾‍♂️ GIDEON DAKORE
+
+## Hi 👋, I'm Gideon
+
+### Software Engineer from Ghana 🇬🇭
+
+💡 I build backend systems, APIs, and cloud-powered applications.
+☁️ Focused on **AWS, DevOps, and scalable system design**.
+
+📫 **[dakoregideon72@gmail.com](mailto:dakoregideon72@gmail.com)**
 
 ---
 
-## About me
+## 🚀 About Me
 
-- Short description: [Replace this with a one-line summary of who you are and what you do]
-- Location: [Optional]
-- Pronouns: [Optional]
-
-## What I'm working on
-
-- Project A — short one-line description
-- Project B — short one-line description
-
-## Areas of interest
-
-- Web & API development
-- Open source
-- Developer tooling
-- Learning machine learning & distributed systems
-
-## Tech & Tools
-
-- Languages: JavaScript, TypeScript, Python, Go
-- Frameworks & Tools: Node.js, React, Next.js, Docker, Git
-
-> Replace the lists above with the exact languages, frameworks and tools you use.
-
-## Featured projects
-
-- [Project-name](https://github.com/gideondakore/project-name) — one-line description
-- [Another-project](https://github.com/gideondakore/another-project) — one-line description
-
-## Contact & socials
-
-- GitHub: https://github.com/gideondakore
-- Email: [your-email@example.com] (replace or remove)
-
+* 🔭 Currently working on **backend systems & cloud-based applications**
+* 🌱 Actively learning **DevOps (CI/CD, Docker, AWS services)**
+* ⚙️ Strong interest in **microservices & distributed systems**
+* 🧠 Improving problem-solving through **data structures & system design**
+* 🎯 Goal: Become a **Cloud & DevOps Engineer**
 
 ---
 
-If you'd like, I can customize this with your real bio, technologies, featured projects, or add badges and a fun header. Tell me what to change and I'll update the README.
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,go,js,nodejs,express,html,css" />
+
+### **Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash" />
+
+### **Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+### **Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,firebase,supabase" />
+
+
+## 📊 GitHub Stats
+
+![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideondakore&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gideondakore&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 What I'm Working On
+
+* 🚀 Building **real-world cloud projects on AWS**
+* 🔄 Learning **CI/CD pipelines (GitHub Actions)**
+* 🐳 Improving skills in **Docker & containerization**
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: *www.linkedin.com/in/gideon-dakore*
+
+---
+
+## ⚡ Fun Fact
+
+I prefer building real-world projects over just tutorials—learning by doing 🚀
+
+---
